@@ -1,1 +1,0 @@
-# botwa-by-Reja-Ganteng
