@@ -18,7 +18,7 @@ const instagram = 'https://instagram.com/reza.apa_';
 const telegram = 'https://t.me/rezaapa'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
 const youtube = '-';
-//const grupch1 = 'belum ada grup'; 
+//const grupch1 = 'https://chat.whatsapp.com/JC6O4zLVkfx9aUcIDQAern'; 
 //const grupch2 = 'belum ada grup' ; 
 const
 {
